@@ -8,5 +8,5 @@ Additionally, I am beginning to focus on the field of cybersecurity.
 ##### -Operating Systems: Linux (Ubuntu, Debian), Windows Server (2012, 2016, 2019, 2022)
 ##### -Languages: C#, Javascript (HTML + CSS), PHP, bash
 ##### -Databases: MySQL
-##### -Tools: Git
+##### -Tools & Software: Git, Power Bi
 ##### -Cloud: Azure
