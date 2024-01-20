@@ -11,19 +11,19 @@ Additionally, I am beginning to focus on the field of cybersecurity.
   - Windows Server (2012, 2016, 2019, 2022)
 
 - **Languages:**
-  - C#, Javascript & HTML + CSS
-  - Python, PHP, bash
+  - C#, Javascript & HTML + CSS, Python, PHP, bash
 
 - **Databases:**
   - MySQL
-  - SQL Server
+  - Microsoft SQL Server
 
 - **Tools & Software:**
   - Git, Power Bi, Wireshark, Nmap, Postman
 
 - **Networking and services:**
   - VLANs, DHCP, DNS
-  - Switch and Router management, iptables, AD, LDAP
+  - Switch and Router management
+  - Security & Directory: iptables, AD, LDAP
 
 - **Cloud:**
   - Azure
