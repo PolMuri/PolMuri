@@ -23,7 +23,7 @@ Furthermore, I am currently advancing my expertise in cybersecurity through spec
 - **Networking and services:**
   - VLANs, DHCP, DNS
   - Switch and Router management
-  - Security & Directory: iptables, AD, LDAP
+  - Security & Directory: iptables, AD, LDAP, pfSense
 
 - **Cloud:**
   - Azure
