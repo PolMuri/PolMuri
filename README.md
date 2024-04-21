@@ -14,7 +14,7 @@ Furthermore, I am currently advancing my expertise in cybersecurity through spec
   - Windows Server (2012, 2016, 2019, 2022)
 
 - **Databases:**
-  - MySQL
+  - MySQL / MariaDB
   - Microsoft SQL Server
 
 - **Tools & Software:**
