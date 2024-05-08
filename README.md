@@ -18,7 +18,7 @@ Furthermore, I am currently advancing my expertise in cybersecurity through spec
   - Microsoft SQL Server
 
 - **Tools & Software:**
-  - Git, Volatility, Wazuh, Power Bi, Wireshark, Nmap, Postman
+  - Git, Docker, Wazuh, Wireshark, Nmap, Postman, Volatility
 
 - **Networking and services:**
   - VLANs, DHCP, DNS
