@@ -7,7 +7,7 @@ Furthermore, I am currently advancing my expertise in cybersecurity through spec
 ## Skills
 
 - **Languages:**
-  - Python, Javascript & HTML + CSS, bash, PHP, C#
+  - Python, Javascript & HTML + CSS, Bash Scripting, PHP, C#
 
 - **Operating Systems:**
   - Linux (Ubuntu, Debian, Kali Linux)
