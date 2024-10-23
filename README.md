@@ -35,3 +35,5 @@ Furthermore, I am currently advancing my expertise in cybersecurity through spec
 
 - **Cloud:**
   - Azure
+
+[![An image of @polmuri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/polmuri)](https://holopin.io/@polmuri)
